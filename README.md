@@ -1,7 +1,7 @@
 # FOREVER : E-Commerce Project
 
 ## Overview
-FOREVER is a full-stack e-commerce platform built with the MERN stack (MongoDB, Express.js, React, Node.js) and integrated with Stripe and Razorpay for secure and flexible payment options. The platform offers a seamless user experience, with features that allow users to browse, search, and filter products, add items to the cart, and manage their orders. For site administrators, a custom admin panel enables easy management of products and order statuses.
+ShopCart is a full-stack e-commerce platform built with the MERN stack (MongoDB, Express.js, React, Node.js) and integrated with Stripe and Razorpay for secure and flexible payment options. The platform offers a seamless user experience, with features that allow users to browse, search, and filter products, add items to the cart, and manage their orders. For site administrators, a custom admin panel enables easy management of products and order statuses.
 
 ## Features
 
