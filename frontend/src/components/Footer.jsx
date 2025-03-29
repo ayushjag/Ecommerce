@@ -9,7 +9,7 @@ const Footer = () => {
         <div>
             <img src={assets.logo} className='mb-5 w-32' alt="" />
             <p className='w-full md:w-2/3 text-gray-600'>
-            Welcome to ShopCart, your one-stop destination for seamless online shopping. We bring you a wide range of high-quality products, from fashion and electronics to home essentials and more. At ShopCart, we prioritize customer satisfaction, offering secure payments, fast shipping, and hassle-free returns.            </p>
+            Welcome to Shopnetic, your one-stop destination for seamless online shopping. We bring you a wide range of high-quality products, from fashion and electronics to home essentials and more. At Shopnetic, we prioritize customer satisfaction, offering secure payments, fast shipping, and hassle-free returns.            </p>
         </div>
 
         <div>
@@ -26,7 +26,7 @@ const Footer = () => {
             <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
             <ul className='flex flex-col gap-1 text-gray-600'>
                 <li>+1-212-456-7890</li>
-                <li>contact@foreveryou.com</li>
+                <li>contact@Shopnetic.com</li>
             </ul>
         </div>
 
@@ -34,7 +34,7 @@ const Footer = () => {
 
         <div>
             <hr />
-            <p className='py-5 text-sm text-center'>Copyright 2024@ forever.com - All Right Reserved.</p>
+            <p className='py-5 text-sm text-center'>Copyright 2024@ Shopnetic.com - All Right Reserved.</p>
         </div>
 
     </div>

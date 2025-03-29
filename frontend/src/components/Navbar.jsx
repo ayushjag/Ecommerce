@@ -39,8 +39,10 @@ const Navbar = () => {
             <p>CONTACT</p>
             <hr className='w-2/4 border-none h-[1.5px] bg-gray-700 hidden' />
         </NavLink>
+        <a href='https://ayush-admin-ecommerce.vercel.app'>Admin Panel</a>
 
       </ul>
+      
 
       <div className='flex items-center gap-6'>
             <img onClick={()=> { setShowSearch(true); navigate('/collection') }} src={assets.search_icon} className='w-5 cursor-pointer' alt="" />
